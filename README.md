@@ -1,3 +1,4 @@
 # 1st
-This is my first Git Repository
-Changes
+This is my first Git Repository.
+<br>
+Changes.
